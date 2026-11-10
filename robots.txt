@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joannacontaoi.netlify.app/sitemap.xml
